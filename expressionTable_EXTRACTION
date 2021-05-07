@@ -1,0 +1,1 @@
+mysql -u sqluser -p compbiol -e 'SELECT * FROM expression;' > expressionTable.txt
