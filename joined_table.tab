@@ -1,0 +1,8 @@
+gene	function_l	expr_value	metabolism
+all3556	TCA cycle	8043	succinate-dehydrogenase
+alr1207	Pyrimidine biosynthesis	8303	uridylate kinase
+alr2938	Detoxification	10323	iron superoxide dismutase
+alr3395	Purine biosynthesis	1432	adenylosuccinate lyase
+alr4392	Nitrogen assimilation	729	nitrogen-responsive regulator
+alr4851	Protein and peptide secretion	633	preprotein tranlocase subunit
+alr5000	Pyrimidine biosynthesis	5732	CTP synthetase
