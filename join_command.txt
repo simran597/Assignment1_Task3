@@ -1,0 +1,4 @@
+# annotationTable.txt renamed to annot.tab
+# expressionTable.txt renamed to expr.tab
+
+join -t $'\t' -o 1.1,1.3,2.2,1.2 annot.tab expr.tab
