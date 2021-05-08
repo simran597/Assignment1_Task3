@@ -4,6 +4,6 @@
 
 SELECT LastName, FirstName, MemberId 
 FROM Member
-WHERE JoinDate>'2010-01-01'
-AND JoinDate<'2010-31-12';
+WHERE JoinDate>'2013-01-01'
+AND JoinDate<'2013-31-12';
 
