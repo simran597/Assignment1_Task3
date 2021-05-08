@@ -12,5 +12,5 @@ Where e.MemberID NOT IN
 
 (Select g.MemberID
 From Entry g
-Where g.Year=2014);
+Where g.Year=2013);
 
